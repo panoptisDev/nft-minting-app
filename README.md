@@ -1,6 +1,6 @@
 # Welcome to The Stripes NFT 💎
 
-![alt text](https://iili.io/HxYQgea.png)
+![alt text](https://iili.io/HxaTxwu.png)
 
 
 ![](https://github.com/The-Stripes-NFT/nft-minting-app/blob/main/logo-blob.png)
